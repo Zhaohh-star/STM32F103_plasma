@@ -1,0 +1,4 @@
+../Core/Src/JX7101S.c:20:7:JX7101S_ReadVoltage	6
+../Core/Src/JX7101S.c:64:6:JX7101S_SendCalibration	1
+../Core/Src/JX7101S.c:76:17:Modbus_CRC16	4
+../Core/Src/JX7101S.c:89:16:BytesToInt32	1

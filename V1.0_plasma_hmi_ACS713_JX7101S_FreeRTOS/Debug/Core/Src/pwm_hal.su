@@ -1,0 +1,4 @@
+../Core/Src/pwm_hal.c:9:6:PWM_Start_HAL	32	static
+../Core/Src/pwm_hal.c:63:6:PWM_Stop_HAL	24	static
+../Core/Src/pwm_hal.c:95:6:PWM_SetDuty_HAL	24	static
+../Core/Src/pwm_hal.c:138:6:PWM_SetFreq_HAL	48	static

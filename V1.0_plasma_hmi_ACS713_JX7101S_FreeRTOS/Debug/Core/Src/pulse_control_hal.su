@@ -1,0 +1,4 @@
+../Core/Src/pulse_control_hal.c:18:6:PulseControl_Start_HAL	16	static
+../Core/Src/pulse_control_hal.c:47:6:PulseControl_Stop_HAL	8	static
+../Core/Src/pulse_control_hal.c:67:9:PulseControl_IsActive	4	static
+../Core/Src/pulse_control_hal.c:78:6:PulseControl_TIM_IRQ_Handler	8	static

@@ -1,0 +1,10 @@
+../Core/Src/main.c:113:6:HMI_Send_Cmd	1
+../Core/Src/main.c:126:6:HMI_Sync_Hardware_Mode	3
+../Core/Src/main.c:158:6:HAL_UART_RxCpltCallback	18
+../Core/Src/main.c:252:5:main	16
+../Core/Src/main.c:532:6:SystemClock_Config	4
+../Core/Src/main.c:576:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:587:6:HAL_ADC_ConvHalfCpltCallback	2
+../Core/Src/main.c:595:6:HAL_ADC_ConvCpltCallback	2
+../Core/Src/main.c:603:6:Bluetooth_Send_Current	1
+../Core/Src/main.c:625:6:Error_Handler	1
